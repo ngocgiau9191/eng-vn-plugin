@@ -1,0 +1,44 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Anh–Việt Dictionary API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/api-lookup": {
+      "post": {
+        "summary": "Tra từ Anh–Việt",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "word": { "type": "string" }
+                },
+                "required": ["word"]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "translation": { "type": "string" }
+                  }
+                }
+              }
+            }
+          },
+          "404": { "description": "Not found" }
+        }
+      }
+    }
+  }
+}

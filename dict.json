@@ -1,0 +1,3719 @@
+[
+  {
+    "En": "6d/7 (six days in tapping followed by one day of tapping rest in one week)",
+    "Vn": "cạo 6 ngày trong tuần, nghỉ ngày chủ nhật",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "7d/7 (tapping without any day of tapping rest in a week)",
+    "Vn": "cạo tất cả các ngày trong tuần",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "a chromosome",
+    "Vn": "nhiễm sắc thể",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "a horizon",
+    "Vn": "Tầng A, tầng rửa trôi",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abandoned",
+    "Vn": "bỏ hóa, hưu canh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abandoned land",
+    "Vn": "đất bỏ hóa, đất hưu canh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "aberrant",
+    "Vn": "sai lệch, biến dạng, khác thường",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "aberration",
+    "Vn": "sự sai hình, sự biến dạng, sự lệch chuẩn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "ability",
+    "Vn": "khả năng, năng lực",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abiosis",
+    "Vn": "trạng thái sống ngầm, đời sống vô tinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abiotic",
+    "Vn": "vô sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abiotic factor",
+    "Vn": "yếu tố vô sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abnormal",
+    "Vn": "không bình thường, dị thường",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abnormal leaf fall",
+    "Vn": "bệnh rụng lá bất thường (do Phytophothora palmivora gây nên)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abrasion",
+    "Vn": "sự mài mòn, sự tróc (vỏ, vảy), sự trầy da",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abrasion resistance",
+    "Vn": "sự chống chịu mài mòn, sức chống chịu mài mòn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abrasion test",
+    "Vn": "thử nghiệm sự mài mòn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abrasion tester",
+    "Vn": "máy để thử nghiệm sự mài mòn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abrasive",
+    "Vn": "chất mài mòn, để mài mòn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abscission",
+    "Vn": "sự cắt bỏ, sự rụng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "abscission of leaf",
+    "Vn": "sự rụng lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absolute",
+    "Vn": "tuyệt đối",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absorption",
+    "Vn": "1. sự hút, sự hấp thụ. 2. sự gia nhập. 3. sự thay thế",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absorption atomic method",
+    "Vn": "phương pháp hấp thụ nguyên tử",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absorption capacity",
+    "Vn": "khả năng hấp thụ, khả năng thu hút",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absorption cross",
+    "Vn": "sự lai giống gia nhập, sự lai giống thay thế",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absorption of minerals",
+    "Vn": "sự hấp thụ khoáng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absorption of nutrient",
+    "Vn": "sự hấp thu chất dinh dưỡng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "absorption of water",
+    "Vn": "sự hấp thu nước",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acacia",
+    "Vn": "cây keo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "accessory",
+    "Vn": "phụ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "accessory bud",
+    "Vn": "chồi phụ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acclimated seed",
+    "Vn": "hạt đã được luyện quen thủy thổ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acclimation",
+    "Vn": "sự luyện quen khí hậu, sự thích nghi khí hậu. 2 dự thuần hóa, sự di thực",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "accommodation",
+    "Vn": "sự điều tiết. Sự thích ứng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "accumulation",
+    "Vn": "sự tích lũy",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "accumulation of nutrient",
+    "Vn": "sự tích lũy, tích tụ dưỡng liệu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "accuracy",
+    "Vn": "1. sự đều đặn 2. sự chính xác",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "accuracy of spreading",
+    "Vn": "sự đều đặn trong việc rải phân",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acetic",
+    "Vn": "axetic. Dấm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acetic acid",
+    "Vn": "acid acetic",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acetone",
+    "Vn": "axeton",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acetone extract",
+    "Vn": "phần chiết bằng axeton",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "achene",
+    "Vn": "quả đóng, quả bế",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acid soil",
+    "Vn": "đất chua, đất acid",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acidification",
+    "Vn": "sự acid hóa, sự đánh đông",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acidimetry",
+    "Vn": "phép đo acid",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acidity",
+    "Vn": "tính acid, độ acid",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acidity (pH)",
+    "Vn": "độ chua",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acreage restriction",
+    "Vn": "giới hạn diện tích trồng, hạn chế diện tích trồng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acrylo-nitric rubber",
+    "Vn": "cao su nitril acrylic",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "active ingredient",
+    "Vn": "hoạt chất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "acute poisoning",
+    "Vn": "ngộ độc cấp tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "additive",
+    "Vn": "chất pha thêm, chất phụ gia",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "advance",
+    "Vn": "cải tiến",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "advance in hybrids",
+    "Vn": "những giống lai tiến bộ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "advance planting material",
+    "Vn": "giống cây trồng cải tiến, giống cây trồng tiến bộ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "adventitious bud",
+    "Vn": "chồi phụ, chối bất định",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "adventitious root",
+    "Vn": "rễ phụ, rễ bất định",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "age of the tree",
+    "Vn": "tuổi của cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "ageing of rubber",
+    "Vn": "sự lão hóa chất cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "alternate tapping",
+    "Vn": "cạo luân phiên",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "altitude",
+    "Vn": "cao trình, độ cao",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "anastomose",
+    "Vn": "nối nhau",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "anchorage",
+    "Vn": "cắm rễ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "angle",
+    "Vn": "gốc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "annual rainfall",
+    "Vn": "vũ lượng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "anther",
+    "Vn": "bao phấn (hoa)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "anti-coagulant",
+    "Vn": "chống đông (mủ)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "anti-erosion work",
+    "Vn": "công tác chống xói mòn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "apical",
+    "Vn": "đỉnh, ngọn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "apical meristem",
+    "Vn": "mô phân sinh ngọn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "appear",
+    "Vn": "xuất hiện",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "application",
+    "Vn": "áp dụng, bôi thuốc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "application method",
+    "Vn": "phương pháp bôi thuốc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "area",
+    "Vn": "diện tích",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "ash content",
+    "Vn": "hàm lượng tro",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "assimilate",
+    "Vn": "đồng hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "assimilation",
+    "Vn": "sự đồng hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "auto coagulate",
+    "Vn": "tự đông đặc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "axis of stem",
+    "Vn": "trục thân cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "back channel",
+    "Vn": "ranh hậu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "baling",
+    "Vn": "ép bành",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bare root",
+    "Vn": "rễ trần",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bark application (Ba)",
+    "Vn": "bôi thuốc trên vỏ cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bark consumption",
+    "Vn": "hao dăm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bark dryness",
+    "Vn": "bệnh khô miệng cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bark scap",
+    "Vn": "mủ vỏ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bark thickness",
+    "Vn": "độ dày vỏ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "base saturation",
+    "Vn": "độ bão hòa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "behaviour",
+    "Vn": "tác động, thái độ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bind",
+    "Vn": "baăng (ghép)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "biomass",
+    "Vn": "sinh khối (thực vật)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "black stripe",
+    "Vn": "loét sọc mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "block rubber",
+    "Vn": "mủ khổi",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "botany",
+    "Vn": "thực vật học",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bracket",
+    "Vn": "tai nấm (bệnh)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "breeding",
+    "Vn": "sự nhân giống, sự lai, sư tuyển chọn, sự chọn lọc giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "breeding program",
+    "Vn": "chương trình chọn lọc, chương trình tuyển chọn giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "brown budding",
+    "Vn": "ghép mắt nâu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "brown root disease",
+    "Vn": "bênh rễ nâu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bubbly sheet",
+    "Vn": "cao su từ có nhiều bọt khí",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budded polybag",
+    "Vn": "bầu cắt ngọn. Cây con trong bầu được ghép sau đó cắt tán thực sinh, có mắt ghép sống và có bộ rễ ổn định",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budded stump",
+    "Vn": "tum ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budded stump",
+    "Vn": "tum trần",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budded tree",
+    "Vn": "cây ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budding",
+    "Vn": "sự ghép mắt, sự ghép chồi",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budding knife",
+    "Vn": "dao ghép mắt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budpatch",
+    "Vn": "mắt ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budslip",
+    "Vn": "mảnh vỏ ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budstick",
+    "Vn": "cành để lấy mắt ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budstick",
+    "Vn": "cành gỗ ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budwood",
+    "Vn": "gỗ phép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budwood garden",
+    "Vn": "vườn nhân gỗ ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "budwood nursery",
+    "Vn": "vườn nhân gỗ ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "bulking tank",
+    "Vn": "bêể tiếp nhận mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "burning operation",
+    "Vn": "công tác đốt cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "burr",
+    "Vn": "khối u trên mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "buwood garden",
+    "Vn": "vườn nhân giống cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "by-product",
+    "Vn": "thứ phẩm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "calandar",
+    "Vn": "máy cán",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "calandered sheet",
+    "Vn": "tờ (cao su) đã qua máy cán",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "calyx",
+    "Vn": "đài hoa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cambium",
+    "Vn": "tượng tầng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "canopy",
+    "Vn": "tán cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "canopy closure",
+    "Vn": "tán cây khép kín",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "capsule",
+    "Vn": "quả nang",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "capsule wall",
+    "Vn": "vách quả nang",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "centrifuge",
+    "Vn": "máy ly tâm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "centrifuged latex concentrate",
+    "Vn": "mủ cô đặc bằng máy ly tâm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "chemical control",
+    "Vn": "xử lý phòng trừ bằng hóa chất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "chemical disease control",
+    "Vn": "phòng chống bệnh bằng hóa chất, phương pháp hóa học",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "chemical fertiliser",
+    "Vn": "phân bón hóa học, phân bón vô cơ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "chronic poisoning",
+    "Vn": "ngộ độc mãn tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clay",
+    "Vn": "sét",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clay loam",
+    "Vn": "thịt pha sét",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clearing (land)",
+    "Vn": "khai hoang",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clonal characters",
+    "Vn": "dđặc tính giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clonal population",
+    "Vn": "quần thể của dòng vô tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clonal resistance",
+    "Vn": "tính kháng bệnh của dòng vô tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clonal seet",
+    "Vn": "Hạt củ dòng vô tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clone",
+    "Vn": "dòng vô tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clone identification",
+    "Vn": "định danh dòng vô tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clone-performance",
+    "Vn": "thành tích giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clones class 1",
+    "Vn": "dòng vô tính bảng 1",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "clones class 2",
+    "Vn": "dòng vô tính bảng 2",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coagulate",
+    "Vn": "đông đặc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coagulum grade",
+    "Vn": "cấp hạng cao su sản xuất từ mủ đông ở vườn cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coefficient of elasticity",
+    "Vn": "hệ số đàn hồi",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coefficient of expansion",
+    "Vn": "hệ số giãn nở",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coefficient of friction",
+    "Vn": "hệ số ma sát",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coefficient of thermal conductibility",
+    "Vn": "hệ số dẫn nhiệt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coefficient of viscosity",
+    "Vn": "hệ số nhớt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coefficient of vulcanisation",
+    "Vn": "hệ số lưu hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "coefficietn of permeability",
+    "Vn": "hệ số thẩm thấu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cold demage",
+    "Vn": "thiệt hại do lạnh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "collection of latex",
+    "Vn": "thu mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "collection station",
+    "Vn": "trạm thu mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "commercial product",
+    "Vn": "thuốc thành phẩm (thuốc thương phẩm)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "complementary seeding",
+    "Vn": "gieo bổ sung",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "complete fallow",
+    "Vn": "đất bỏ hóa hoàn toàn, không trồng một thứ cây nào",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "composite variety",
+    "Vn": "giống lai hỗn hợp",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "compost",
+    "Vn": "phân ủ, phâm compot. Làm phân ủ, phân compot.",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "compound tree",
+    "Vn": "cây ghép tán, cây ba phần",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "compression modulus",
+    "Vn": "mô đun ép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "compressor",
+    "Vn": "máy nén",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "concentrate latex",
+    "Vn": "mủ cô đặc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "contact fungicide",
+    "Vn": "thuốc trừ nấm tiếp xúc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "contact herbicide",
+    "Vn": "thuốc trừ cỏ tiếp xúc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "contour",
+    "Vn": "dđường đồng độ cao, đường đồng mực",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "contour cropping",
+    "Vn": "trồng cây theo đường đồng mực, trồng cây theo đường đồng độ cao",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "contour furrow irrigation",
+    "Vn": "tưới nước bằng rãnh theo đường đồng mực",
+    "": "",
+    "__1": "",
+    "__2": "n"
+  },
+  {
+    "En": "contour line",
+    "Vn": "đường đồng mức",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "contour ploughing",
+    "Vn": "cây thành luống theo đường đồng mực",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "contour terrace",
+    "Vn": "thềm đất chạy theo đường đồng mực",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "controlled pollination",
+    "Vn": "sự thụ phấn nhân tạo có kiểm soát",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "controlled upward tapping",
+    "Vn": "cạo úp có kiểm soát",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "conventional latex grade",
+    "Vn": "cấp hạng truyền thống cao su sản xuất từ latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "core stump",
+    "Vn": "tum trần cắm trong bầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cork",
+    "Vn": "bần (vỏ)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cover crop",
+    "Vn": "cây thảm phủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "creamed rubber latex",
+    "Vn": "mủ kem",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "crepe",
+    "Vn": "cao su crep",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "creper",
+    "Vn": "máy cán crep",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cross-pollination",
+    "Vn": "thụ phấn chéo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "crotch",
+    "Vn": "nơi phân cành",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "crown",
+    "Vn": "tán",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "crown budding",
+    "Vn": "ghép tán",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "crude rubber",
+    "Vn": "cao su thô",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cultivable",
+    "Vn": "trồng trọt được, khai thác được",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cultivable land",
+    "Vn": "diện tích có thể trồng trọt được, diện tích có thể khai thác được",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cultivation of slope",
+    "Vn": "trồng cây trên đất dốc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cummulative yield",
+    "Vn": "sản lượng cộng dồn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cumulative",
+    "Vn": "cộng dồn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cup cleaning",
+    "Vn": "vệ sinh chén",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cup hanger",
+    "Vn": "kiềng chén",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cup lump",
+    "Vn": "mủ chén",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cure",
+    "Vn": "sự luư hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "curing agent",
+    "Vn": "tác nhân lưu hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "curing rate",
+    "Vn": "vận tốc lưu hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "curing system",
+    "Vn": "hệ thống lưu hóa, phương pháp lưu hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "curing time",
+    "Vn": "thời gian lưu hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "curve of yield",
+    "Vn": "đường biểu diễn năng suất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cut back",
+    "Vn": "cắt ngọn (gốc ghép)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "cutting",
+    "Vn": "daâm cành",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "d1 (daily tapping)",
+    "Vn": "cạo mỗi ngày",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "d2 (alternate daily tapping/once in two days)",
+    "Vn": "một ngày cạo, một ngày nghỉ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "d3 (third daily tapping/once in three days)",
+    "Vn": "một ngày cạo, hai ngày nghỉ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "d4 (fourth daily tapping/once in four days)",
+    "Vn": "một ngày cạo, ba ngày nghỉ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "d5 (fifth daily tapping/once in five days)",
+    "Vn": "một ngày cạo, bốn ngày nghỉ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "d6 (sixth daily tapping/once in six days)",
+    "Vn": "một ngày cạo, năm ngày nghỉ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "damaged bark",
+    "Vn": "vỏ bị tổn thương",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "damp",
+    "Vn": "ẩm ướt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "decomposition",
+    "Vn": "sự phân hủy",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "deficit",
+    "Vn": "thiếu hụt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "defiliation",
+    "Vn": "sự làm rụng lá, sự rụng lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "density",
+    "Vn": "mật độ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "depth of soil",
+    "Vn": "chiều sâu đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "depth of tapping",
+    "Vn": "chiều sâu cạo mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "dig",
+    "Vn": "đào, bới",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "direction of cut",
+    "Vn": "hướng miệng cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "dirt content",
+    "Vn": "hàm lượng chất bẩn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "disease agent",
+    "Vn": "tác nhân gây bệnh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "disease incidence",
+    "Vn": "tỷ lệ bệnh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "disease severity index",
+    "Vn": "chỉ số bệnh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "disease severity scale",
+    "Vn": "cấp bệnh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "disease susceptibility",
+    "Vn": "tính mẫn cảm bệnh hại",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "distance of planting",
+    "Vn": "khoảng cách trồng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "diversification",
+    "Vn": "đa dạng hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "dormant bud",
+    "Vn": "mắt (ghép) ngủ\\",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "dosage",
+    "Vn": "liều lượng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "downward tapping",
+    "Vn": "cạo miệng ngửa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "drainage areas",
+    "Vn": "vùng huy động mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "drainage at soil surface",
+    "Vn": "thoát nước bề mặt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "drechslera heveae",
+    "Vn": "nấm dechslera hevea, gây bệnh đốm mắt chim",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "dry months",
+    "Vn": "tháng khô",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "dry rubber content",
+    "Vn": "hàm lượng cao su khô",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "early opening for tapping",
+    "Vn": "mở miệng cạo sớm, đưa vào cạo mủ sớm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "early selection",
+    "Vn": "tuyển non, tuyển sớm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "earth scrap",
+    "Vn": "cao su đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "elite hybrid",
+    "Vn": "cây lai ưu tú",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "estate",
+    "Vn": "đại điền",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "estimation of heritability",
+    "Vn": "ước lượng di truyền",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "ET",
+    "Vn": "ethephon",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "ET 5%",
+    "Vn": "Stimulated with 5% of ethephon",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "exchangeable potassium",
+    "Vn": "kali trao đổi",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "extensive farming",
+    "Vn": "vườn KTCB quảng canh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "fertilizer",
+    "Vn": "phân bón",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "fertilizer application",
+    "Vn": "sử dụng phân bón",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "field coagulum",
+    "Vn": "mủ cao su đông đặc ở vườn cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "field grade rubber",
+    "Vn": "mủ tạp, mủ phụ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "finished product",
+    "Vn": "thuốc thành phẩm (thuốc thương phẩm)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "foam latex",
+    "Vn": "bọt latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "foam rubber",
+    "Vn": "cao su xốp, cao su mút",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "foggy days",
+    "Vn": "ngày có sương mù",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "foliar diagnostic",
+    "Vn": "chẩn nghiệm lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "frequency of tapping",
+    "Vn": "nhịp độ cạo mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "front channel",
+    "Vn": "ranh tiền",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "fruiting body",
+    "Vn": "quả thể",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "fungicide",
+    "Vn": "thuốc trừ nấm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "genetic variability",
+    "Vn": "biến thiên di truyền",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "geographic information system, GIS",
+    "Vn": "hệ thống thông tin địa lý",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "girth increment",
+    "Vn": "taăng trưởng vanh thân",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "gouge",
+    "Vn": "dao đục để cạo mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "gouge",
+    "Vn": "dao đục (cạo mủ)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "grading of rubber",
+    "Vn": "cách xếp hạng các thứ cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "graft",
+    "Vn": "ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "grafted stem",
+    "Vn": "thân ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "green budding",
+    "Vn": "ghép mắt xanh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "grey podzolic",
+    "Vn": "đất xám (phù sa cổ)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "grey soil",
+    "Vn": "đất xám",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "groove application (Ga)",
+    "Vn": "bôi thuốc trên miệng cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "ground nursery",
+    "Vn": "vườn ươm cây tum",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "half spiral",
+    "Vn": "nửa đường xoắn ốc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "hand (artifical) pollination",
+    "Vn": "lai hoa nhân tạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "handle of knife",
+    "Vn": "cán dao",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "hard bark",
+    "Vn": "lớp vỏ cứng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "height of opening",
+    "Vn": "chiều cao mở cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "herbicide",
+    "Vn": "thuốc trừ cỏ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "heritability",
+    "Vn": "tính di truyền",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "heterosis",
+    "Vn": "ưu thế lai",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "hilly area",
+    "Vn": "địa hình đồi dốc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "host",
+    "Vn": "cây ký chủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "humus",
+    "Vn": "mùn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "hypha",
+    "Vn": "khuẩn ty, sợi nấm phát sinh từ bào tử",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "immature period",
+    "Vn": "thời gian kiến thiết cơ bản",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "immature plantation",
+    "Vn": "vườn cao su kiến thiết cơ bản",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "initial plasticity",
+    "Vn": "độ dẻo ban đầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "inorganic phosphorous",
+    "Vn": "lân vô cơ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "insecticide",
+    "Vn": "thuốc trừ sâu (côn trùng)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "integrated pest management-IPM",
+    "Vn": "quản lý dịch hại tổng hợp",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "inter-row",
+    "Vn": "giữa hàng cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "intial flow",
+    "Vn": "dòng chảy ban đầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "lace application (La)",
+    "Vn": "buôi thuốc trên lớp mủ dây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "land classification",
+    "Vn": "phân hạng đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "large scale size",
+    "Vn": "quy mô lớn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "late drip",
+    "Vn": "mủ chảy dai",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "lateral root",
+    "Vn": "rễ bàng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex",
+    "Vn": "mủ nước cây cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex adhesive",
+    "Vn": "chất dính làm bằng latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex bitumen elmulsion",
+    "Vn": "thể sữa latex và bitum",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex composition",
+    "Vn": "cấu tạp mủ latex, thành phần của mủ latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex concentrated by creaming",
+    "Vn": "cô đặc bằng cách hóa kem",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex concentrated by evaporation",
+    "Vn": "latex cô đặc bằng cách làm bay hơi",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex diagnosis",
+    "Vn": "chẩn đoán sinh lý mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex dry rubber content",
+    "Vn": "hàm lượng cao su khô",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex flow",
+    "Vn": "dòng chảy của mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex flow rate",
+    "Vn": "vận tốc dòng mủ chảy",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex foam",
+    "Vn": "bọt latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex mechanica stability",
+    "Vn": "độ ổn định cơ học của latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex preservation",
+    "Vn": "bảo vệ mủ latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex properties",
+    "Vn": "thuộc tính của latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex specification",
+    "Vn": "tiêu chuẩn của latex",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex stimulant",
+    "Vn": "chất kích thích mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex veesel plugging",
+    "Vn": "sự nút kín các mạch mủ, bít mạch mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex vessel",
+    "Vn": "mạch mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex vessel rings",
+    "Vn": "vòng ống mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "latex-timber clone",
+    "Vn": "giống cao su mủ - gỗ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "laticiferous",
+    "Vn": "có nhựa mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "leaf abscission",
+    "Vn": "sự rụng lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "leaf area",
+    "Vn": "diện tích lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "leaf diagnosis of fertiliser requirement",
+    "Vn": "phân tích lá để xác định nhu cầu về phân bón",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "leaflets",
+    "Vn": "lá non",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "lethal dose",
+    "Vn": "LD50",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "loam",
+    "Vn": "thịt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "loamy sand",
+    "Vn": "cát pha thịt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "low isolation",
+    "Vn": "giờ nắng ít",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "mature period",
+    "Vn": "giai đoạn cạo mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "mature plantation",
+    "Vn": "vườn cao su kinh doanh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "mechanical learing",
+    "Vn": "khai hoang cơ giới",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "minimal care",
+    "Vn": "chăm sóc tổi thiếu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "mits",
+    "Vn": "sương mù",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "mooney viscosity",
+    "Vn": "độ nhớt Mooney",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "natural rubber quality control center",
+    "Vn": "trung tâm quản lý chất lượng cao su thiên nhiên",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "neoprene",
+    "Vn": "cao su tổng hợp nhiệt dẻo neopren",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "neoprene latex",
+    "Vn": "mủ nước neopren",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "neoprene sponge",
+    "Vn": "cao su xốp neopren",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "network  of rubber particles",
+    "Vn": "mạng lưới những hạt cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "non-rubber",
+    "Vn": "phi cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "non-selective herbicide",
+    "Vn": "thuốc trừ cỏ không chọn lọc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "non-staining extended oil rubber",
+    "Vn": "cao su pha dầu không làm bẩn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "nursery",
+    "Vn": "vườn ươm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "oidium hevea",
+    "Vn": "Bệnh phấn trắng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "oidium secondary leaf fall",
+    "Vn": "Bệnh phấn trắng gây rụng lá đợt hai, bệnh phấn trắng (gây rụng lá non mới mọc sau khi qua đông)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "oil enriched rubber",
+    "Vn": "cao su pha dầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "oil extended natural rubber",
+    "Vn": "cao su thiên nhiên pha dầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "oil resistant rubber",
+    "Vn": "cao su chống chịu được dầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "oil softened rubber",
+    "Vn": "cao su hóa dẻo bằng dầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "opposite direction",
+    "Vn": "hướng đối diện",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "original bark",
+    "Vn": "vỏ nguyên sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "oxidised rubber",
+    "Vn": "cao su bị oxi hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "panel",
+    "Vn": "mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "panel application (Pa)",
+    "Vn": "bôi thuốc trên mủ dây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "panel burr",
+    "Vn": "khối u ở mặt cạo, chỗ lồi lên ở mặt cạo, chỗ nhô ra ở mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "panel disease",
+    "Vn": "bệnh mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "panel fissure",
+    "Vn": "kẽ nứt trên mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "panel guide line",
+    "Vn": "đường hưỡng dẫn việc mở miệng cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "panel necrosis",
+    "Vn": "bệnh thối mặt cạo do nấm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "parasites",
+    "Vn": "sinh vật ký sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "parasitic fungus",
+    "Vn": "nấm ký sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "parental genitors",
+    "Vn": "cha mẹ lai",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "part per million",
+    "Vn": "nồng độ phần triệu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "pesticide",
+    "Vn": "thuốc bảo vệ thực vật",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "pests",
+    "Vn": "dịch hại",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "phenotypic variability",
+    "Vn": "biến thiên kiểu hình",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "phloem",
+    "Vn": "mạch libe",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "photometric method",
+    "Vn": "phương pháp so màu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "physiological behaviour",
+    "Vn": "tác động sinh lý",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "phytophthora leaf fall",
+    "Vn": "bệnh rụng lá non do phytophthora gây nên",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "Phytophthora palmivora",
+    "Vn": "phythophthora palmivora gây nên bệnh sọc đen và ung thối mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "pink disease",
+    "Vn": "bệnh nấm hồng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "plant disease",
+    "Vn": "bệnh cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "plant nutrition diagnosis",
+    "Vn": "chẩn đoán dinh dưỡng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "planting density",
+    "Vn": "mật độ trồng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "planting recommendation",
+    "Vn": "khuyến cáo trồng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "plasticity retention index",
+    "Vn": "chỉ số duy trì độ dẻo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "plugging index",
+    "Vn": "chỉ số bít ống mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "pneumatic",
+    "Vn": "bằng cao su, thổi phồng được",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "pneumatic cushion",
+    "Vn": "gối dựa bằng cao su, đệm bằng cao su, gối thổi phòng được, đệm thổi phòng được",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "polybag budding",
+    "Vn": "bầu cắt ngọn. Cây con trong bầu được ghép sau đó cắt tán thực sinh, có mắt ghép sống và có bộ rễ ổn định",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "polybag collection",
+    "Vn": "thu mủ trong túi nylon",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "polybag nursery",
+    "Vn": "vườn ươm bầu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "polybutadien",
+    "Vn": "cao su tổng hợp",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "polystyrene",
+    "Vn": "cao su tổng hợp poli styren",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "polyurethane",
+    "Vn": "cao su tổng hợp poli uretan",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "post-emergence herbicide",
+    "Vn": "thuốc trừ cỏ hậu nảy mầm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "potential parents",
+    "Vn": "cha mẹ ưu tú (lai tạo giống)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "pre-emergence herbicide",
+    "Vn": "thuốc trừ cỏ tiền nảy mầm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "processed factory",
+    "Vn": "nhà máy chế biến",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "processed seed",
+    "Vn": "hạt giống đã được xử lý",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "processing",
+    "Vn": "sơ chế (mủ cao su)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "prolong cultivation",
+    "Vn": "vườn KTCB kéo dài",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rainfall effect on disease incidence",
+    "Vn": "ảnh hưởng của mưa đến sự nhiễm bệnh. Tỷ lệ nhiễm bệnh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rainfall effect on tapping",
+    "Vn": "ảnh hưởng của mưa đến việc cạo mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rainguard",
+    "Vn": "máng che mưa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rainy months",
+    "Vn": "tháng mưa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rate of cure",
+    "Vn": "vận tốc lưu hóa, tốc độ lưu hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "raw rubber",
+    "Vn": "cao su chưa lưa hóa",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "recultivation",
+    "Vn": "trồng lại, tái canh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "recuperated rubber",
+    "Vn": "cao su thu hồi lại",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "red soil",
+    "Vn": "đất đỏ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "refoliation",
+    "Vn": "sự mọc lá non",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "regenerated forest",
+    "Vn": "ruứng tái sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "renewed bark",
+    "Vn": "vỏ tái sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "replacement",
+    "Vn": "trồng dặm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "replanting",
+    "Vn": "taái canh, trồng trọt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rest period",
+    "Vn": "thời gian nghỉ cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rockiness of top soil",
+    "Vn": "độ sỏi đá đất mặt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "root trainer plant",
+    "Vn": "bầu luyện rễ, cây con phát triển từ bầu cắt ngọn hình thành một hoawtcj nhiều tấng lá trong ống bầu PE cứng, có bộ rễ phát triển vượt trội và đã qua quá trình tôi luyện.",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "row",
+    "Vn": "hàng cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber",
+    "Vn": "cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber and cork compound",
+    "Vn": "hỗn hợp cao su và lie (bần)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber biosynthesis",
+    "Vn": "sinh tổng hợp cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber bumper",
+    "Vn": "đệm chống sốc bằng cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber clothing",
+    "Vn": "áo quần bằng cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber coagulated in the field",
+    "Vn": "mủ cao su đông đặc ở vườn cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber flooring",
+    "Vn": "lớp phủ đất bằng cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber heel",
+    "Vn": "gót giày bằng cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber solution",
+    "Vn": "cao su hòa tan",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber solvent",
+    "Vn": "chất hòa tan cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber tile",
+    "Vn": "tấm lát bằng cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber tree",
+    "Vn": "cây cao su",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "rubber tyre factory",
+    "Vn": "nhà máy chế tạo vỏ ruột xe",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "runt",
+    "Vn": "cây còi cọc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "S (Spiral cut)",
+    "Vn": "miệng cạo một vòng thân",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "S/2 (one half spiral cut)",
+    "Vn": "nửa vòng thân",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "S/3 (one third spiral cut)",
+    "Vn": "một phần ba vòng thân",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "S/4 (one quarter spiral cut)",
+    "Vn": "một phần tư vòng thân",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "sampling",
+    "Vn": "lấy mẫu",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "sand",
+    "Vn": "cát",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "sandy clay",
+    "Vn": "sét pha cát",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "sandy clay loam",
+    "Vn": "thịt pha sét có cát",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "sandy loam",
+    "Vn": "thịt pha cát",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "scrap rubber",
+    "Vn": "cao su phế thải",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "second collection",
+    "Vn": "thu mủ đợt 2",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seed",
+    "Vn": "hạt giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seed breeding",
+    "Vn": "tuyển chọn hạt giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seed plant",
+    "Vn": "cây trồng để lấy hạt làm giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seed production",
+    "Vn": "sự sản xuất hạt giống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seeding stump",
+    "Vn": "stump lấy từ cây hạt không ghép, cây trồng hạt vát thành tum",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seedling",
+    "Vn": "cây trồng từ hạt, cây thực sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seedling as rootstock",
+    "Vn": "cây trồng từ hạt dùng làm cây gốc, cây trồng từ hạt dùng làm gốc ghép",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "seedling bud",
+    "Vn": "chồi thực sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "selection in nursery",
+    "Vn": "tuyenr chọn cây ở vườn ươm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "selection of ortet",
+    "Vn": "tuyeển chọn những dòng vô tính mẹ. Chọn lọc những cây đầu dòng sớm, cho nhiều mủ.",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "selection of planting material for different envionment",
+    "Vn": "tuyển chọn cây giống thích nghi với điều kiện của môi trường",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "selective herbicide",
+    "Vn": "thuốc trừ cỏ chọn lọc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "settling tank",
+    "Vn": "bể lắng động",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "shelter belt",
+    "Vn": "hàng rào chắn gió",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "silt",
+    "Vn": "thịt rất mịn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "silt loam",
+    "Vn": "thịt mịn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "silty clay",
+    "Vn": "sét pha thịt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "silty clay loam",
+    "Vn": "thịt pha sét mịn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "skim latex",
+    "Vn": "serum của máy ly tâm loại ra",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "skim rubber",
+    "Vn": "cao su skim, sản phẩm phụ của máy ly tâm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "small holding",
+    "Vn": "tiểu điền",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "small scale size",
+    "Vn": "quy mô nhỏ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soft bark",
+    "Vn": "lớp vỏ mềm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soil aeration",
+    "Vn": "đôộ thoáng khí của đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soil analysis",
+    "Vn": "phân tích đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soil moisture",
+    "Vn": "độ ẩm của đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soil structure",
+    "Vn": "cấu trúc đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soil taxonomy",
+    "Vn": "phân loại đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soil texture",
+    "Vn": "thành phần đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "soil type",
+    "Vn": "loại đất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "source-bush garden",
+    "Vn": "vườn nhân lưu trữ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "sponge rubber",
+    "Vn": "cao su xốp",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "spore",
+    "Vn": "bào tử. Bộ phận sinh sản của nấm. Bào tử có thể sinh sản hữu tính hoặc vô tính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "spout",
+    "Vn": "máng dẫn mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "spreading crop",
+    "Vn": "rải vụ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "stem disease",
+    "Vn": "bệnh thân",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "stimulation respond",
+    "Vn": "đáp ứng thuốc kích thích",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "sucrose",
+    "Vn": "đường sucrose",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "surfactant",
+    "Vn": "chất bám dính",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "symptom",
+    "Vn": "triệu chứng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "synthetic rubber",
+    "Vn": "cao su tổng hợp, cao su nhân tạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "systemic fungicide",
+    "Vn": "thuốc trừ nấm lưu dẫn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "systemic herbicide",
+    "Vn": "thuốc trừ cỏ lưu dẫn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tank truck",
+    "Vn": "xe bồn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tap root",
+    "Vn": "rễ cọc",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapped latex",
+    "Vn": "mủ mới cạo, mủ tươi ở vườn cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapper",
+    "Vn": "thợ cạo mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapper's bucket",
+    "Vn": "xô đựng mủ của thợ cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping",
+    "Vn": "sự cạo mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping cup",
+    "Vn": "chén hứng mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping cut",
+    "Vn": "miệng cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping frequency",
+    "Vn": "nhịp độ cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping knife",
+    "Vn": "dao cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping panel",
+    "Vn": "mặt cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping system",
+    "Vn": "chế độ cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tapping task",
+    "Vn": "phần cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "technical assistance",
+    "Vn": "hỗ trợ kỹ thuật",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "technical product",
+    "Vn": "thuốc kỹ thuật (thuốc nguyên chất)",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "technical specification",
+    "Vn": "tiêu chuẩn kỹ thuật",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "technical specified grade",
+    "Vn": "xếp hạng theo tiêu chuẩn kỹ thuật",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "tensile test",
+    "Vn": "thử nghiệm kéo căng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "terminal bud",
+    "Vn": "chồi ngọn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "terminal growth",
+    "Vn": "sự tăng trưởng ngọn",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "terrace cultivation",
+    "Vn": "trồng cây theo bậc thang",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "terrace on contour",
+    "Vn": "ruộng bậc thang theo đường đồng mực",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "thiols",
+    "Vn": "nhóm thiols",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "three-part-tree",
+    "Vn": "cây ghép tán, cây ba phần",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "timber-latex clone",
+    "Vn": "giống cao su gỗ - mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "top soil",
+    "Vn": "đất mặt",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "total solid content of latex",
+    "Vn": "tổng hàm lượng chất rắn trong mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "trade name",
+    "Vn": "tên thương mại",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "traditional zone",
+    "Vn": "vùng truyền thống",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "trunk snap",
+    "Vn": "đổ gãy thân cây",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "under leaf spraying",
+    "Vn": "phun thuốc ở mặt dưới lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "unsmoked sheet",
+    "Vn": "cao su từ không xông khói",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "upward tapping",
+    "Vn": "cạo miệng úp",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "virgin bark",
+    "Vn": "vỏ nguyên sinh",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "volatile matter",
+    "Vn": "hàm lượng chất bay hơi",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "waterlogging",
+    "Vn": "ngập úng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "whorl",
+    "Vn": "tầng lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "whorl polybag budded stump",
+    "Vn": "tum bầu có tầng lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "whorl polybag budding",
+    "Vn": "bầu có tầng lá, cây con phát triển từ bầu cắt ngọn hình thành một hoặc nhiều tấng lá",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "wild genotypes",
+    "Vn": "kiểu di truyền hoang dại",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "wind speed",
+    "Vn": "tốc độ gió",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "wintering and refoliation",
+    "Vn": "rụng lá qua đông và ra lá mới",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "wounded bark",
+    "Vn": "vỏ bị cạo phạm",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "xylem",
+    "Vn": "mạch gỗ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "year of planting",
+    "Vn": "năm trồng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "year of tapping",
+    "Vn": "năm mở cạo",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "yield",
+    "Vn": "sản lượng, năng suất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "yield correlation with girth vessel ring",
+    "Vn": "sự tương quan giữa sản lượng với chu vi vòng mạch mủ",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "yield decrease",
+    "Vn": "sự sụt giảm năng suất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "yield increase",
+    "Vn": "sự tăng năng suất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "yield index",
+    "Vn": "chỉ số năng suất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "yield reduction",
+    "Vn": "sự giảm năng suất",
+    "": "",
+    "__1": "",
+    "__2": ""
+  },
+  {
+    "En": "yield stimulation",
+    "Vn": "kích thích tăng sản lượng",
+    "": "",
+    "__1": "",
+    "__2": ""
+  }
+]
