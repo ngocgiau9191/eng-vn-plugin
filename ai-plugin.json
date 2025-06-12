@@ -7,10 +7,10 @@
   "auth": { "type": "none" },
   "api": {
     "type": "openapi",
-    "url": "https://<YOUR_DOMAIN>/openapi.json",
+    "url": "https://<eng-vn-plugin/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://<YOUR_DOMAIN>/logo.png",
+  "logo_url": "https://<eng-vn-plugin>/logo.png",
   "contact_email": "you@your-domain.com",
-  "legal_info_url": "https://<YOUR_DOMAIN>/legal"
+  "legal_info_url": "https://<eng-vn-plugin>/legal"
 }
