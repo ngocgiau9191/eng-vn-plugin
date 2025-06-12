@@ -7,10 +7,10 @@
   "auth": { "type": "none" },
   "api": {
     "type": "openapi",
-    "url": "https://<eng-vn-plugin/openapi.json",
+    "url": "https://<eng-vn-plugin-q3y6.vercel.app/openapi.json",
     "is_user_authenticated": false
   },
-  "logo_url": "https://<eng-vn-plugin>/logo.png",
+  "logo_url": "https://<eng-vn-plugin-q3y6.vercel.app>/logo.png",
   "contact_email": "you@your-domain.com",
-  "legal_info_url": "https://<eng-vn-plugin>/legal"
+  "legal_info_url": "https://<eng-vn-plugin-q3y6.vercel.app>/legal"
 }
